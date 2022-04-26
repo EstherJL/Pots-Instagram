@@ -1,0 +1,19 @@
+body {
+	background: black;
+}
+
+.post {
+	background: white;
+	height: 500px;
+	width: 400px;
+	margin: auto;}
+    img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+       }
+       .post-body{font-size: 13px;
+        text-align: justify;
+        margin-left: 10px;
+           font-family:  'Roboto', sans-serif;
+    }
